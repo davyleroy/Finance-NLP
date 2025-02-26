@@ -1,0 +1,4 @@
+chatbot_model/checkpoint-3499/ filter=lfs diff=lfs merge=lfs -text
+chatbot_model/checkpoint-3000/ filter=lfs diff=lfs merge=lfs -text
+*.your_large_file_extension filter=lfs diff=lfs merge=lfs -text
+chatbot_model filter=lfs diff=lfs merge=lfs -text
